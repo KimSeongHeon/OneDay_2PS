@@ -13,5 +13,13 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\2020/05/29">
+      <UniqueIdentifier>{4da14ed7-8e45-4190-9f44-d1f142c4f531}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="백준1756 피자굽기.cpp">
+      <Filter>소스 파일\2020/05/29</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
