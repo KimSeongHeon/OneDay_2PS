@@ -19,7 +19,6 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="백준1865 웜홀.cpp" />
     <ClCompile Include="백준1918 후위 표기식.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
