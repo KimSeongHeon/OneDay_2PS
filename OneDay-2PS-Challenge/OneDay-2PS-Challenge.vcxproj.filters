@@ -19,10 +19,13 @@
     <Filter Include="소스 파일\2020/05/30">
       <UniqueIdentifier>{29bd090e-e3f4-44a7-ae4a-59ddbb17efe3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\2020/05/31">
+      <UniqueIdentifier>{7c86ffaa-5869-4a59-b0fa-f35afa2efcda}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="백준1918 후위 표기식.cpp">
-      <Filter>소스 파일\2020/05/30</Filter>
+    <ClCompile Include="백준17144 미세먼지 안녕!.cpp">
+      <Filter>소스 파일\2020/05/31</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -1,7 +1,7 @@
-/*struct cmp{
+struct cmp{
 	bool operator()(pair<int, int> a, pair<int, int> b) {
-		if (a.first == b.first) a.second < b.second;
-		else a.first < b.first;
+		if (a.first == b.first) a.second > b.second;
+		else a.first > b.first;
 	}
 };
 void dijkstra(int start) {
@@ -22,4 +22,4 @@ void dijkstra(int start) {
 			}
 		}
 	}
-}*/
+}
