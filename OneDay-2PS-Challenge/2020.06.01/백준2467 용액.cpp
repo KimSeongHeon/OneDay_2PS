@@ -1,3 +1,13 @@
+/*2020/06/02 두번째 문제
+백준2467 용액(이진탐색)
+//처음에 n을 10000으로 보고 n^2(완전 탐색)으로 구현
+//10만이라는 것을 깨닫고 이진 탐색으로 재도전
+//positive num 과 negative num을 구분
+//이를 정렬함
+//lower_bound활용하여 주어진 값과 비슷한 값을 찾음
+// 나보다 작은 값도 답이 될 수 있으므로 lower_bound와 그 이전 값도 함꼐 비교
+// 음수 2개, 양수 2개가 답이 될 수도 있으므로 이런 경우도 고려(음수0,1번쨰, 양수 0,1번째와 비교)
+*/
 #include<iostream>
 #include<vector>
 #include<math.h>
@@ -5,18 +15,6 @@
 #include<climits>
 #include<memory.h>
 using namespace std;
-//완전 탐색(n*n) 1억이라 통과될 줄 알았지만 X
-/*
-	for (int i = 0; i < v.size()-1; i++) {
-		for (int j = i+1; j < v.size(); j++) {
-			if (abs(v[i] + v[j]) < abs(cand)) {
-				cand = abs(v[i] + v[j]);
-				ans = { v[i],v[j] };
-			}
-		}
-	}
-	if (ans.first > ans.second) cout << ans.second << " " << ans.first << endl;
-	else cout << ans.first << " " << ans.second << endl;*/
 bool cmp(int &a, int &b) {
 	return a > b;
 }
