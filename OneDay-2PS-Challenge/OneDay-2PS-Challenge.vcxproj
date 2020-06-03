@@ -19,8 +19,6 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="백준14502 연구소.cpp" />
-    <ClCompile Include="백준2467 용액.cpp" />
     <ClCompile Include="백준4485 녹색 옷 입은 애가 젤다지.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
