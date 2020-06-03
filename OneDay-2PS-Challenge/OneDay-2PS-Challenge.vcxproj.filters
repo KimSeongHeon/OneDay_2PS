@@ -22,10 +22,22 @@
     <Filter Include="소스 파일\2020/05/31">
       <UniqueIdentifier>{7c86ffaa-5869-4a59-b0fa-f35afa2efcda}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\2020/06/02">
+      <UniqueIdentifier>{57d9632d-0d20-406b-a4ff-acf45c865087}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\2020/06/01">
+      <UniqueIdentifier>{49446c99-a3e0-465d-802e-3fa1366210b4}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="백준17144 미세먼지 안녕!.cpp">
-      <Filter>소스 파일\2020/05/31</Filter>
+    <ClCompile Include="백준2467 용액.cpp">
+      <Filter>소스 파일\2020/06/01</Filter>
+    </ClCompile>
+    <ClCompile Include="백준4485 녹색 옷 입은 애가 젤다지.cpp">
+      <Filter>소스 파일\2020/06/02</Filter>
+    </ClCompile>
+    <ClCompile Include="백준14502 연구소.cpp">
+      <Filter>소스 파일\2020/06/02</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
