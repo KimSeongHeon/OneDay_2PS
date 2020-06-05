@@ -29,4 +29,9 @@
       <UniqueIdentifier>{49446c99-a3e0-465d-802e-3fa1366210b4}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="백준5549 행성탐사.cpp">
+      <Filter>소스 파일\2020/06/02</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
