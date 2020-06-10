@@ -28,10 +28,16 @@
     <Filter Include="소스 파일\2020/06/01">
       <UniqueIdentifier>{49446c99-a3e0-465d-802e-3fa1366210b4}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\2020/06/03">
+      <UniqueIdentifier>{7b8357a5-6fa0-41be-9f7e-82bcdbf4384d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\2020/06/09">
+      <UniqueIdentifier>{541f227a-6d4e-4e18-b4cb-22e4116e46ae}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="백준5549 행성탐사.cpp">
-      <Filter>소스 파일\2020/06/02</Filter>
+    <ClCompile Include="백준1956 운동.cpp">
+      <Filter>소스 파일\2020/06/09</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
