@@ -36,8 +36,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="백준1956 운동.cpp">
-      <Filter>소스 파일\2020/06/09</Filter>
+    <ClCompile Include="백준9370 미확인 도착지.cpp">
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
