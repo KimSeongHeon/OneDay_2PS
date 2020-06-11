@@ -36,7 +36,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="백준9370 미확인 도착지.cpp">
+    <ClCompile Include="백준18119 단어 암기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
